@@ -1,0 +1,11 @@
+.wrapper{
+    height:100px;
+    background:rgb(194, 77, 77);
+    border:1px solid black;
+}
+.wrapper2{
+    background:rgb(178, 194, 77);
+}
+.wrapper3{
+    background:#fff;
+}
